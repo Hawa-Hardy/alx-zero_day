@@ -1,1 +1,3 @@
-My first readme
+My first readme 
+Added a new branch called update_script 
+Made some commits with funny names 
